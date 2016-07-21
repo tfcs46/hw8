@@ -1,0 +1,14 @@
+.row div{
+  border: 2px solid red;
+    min-height: 50px;
+    font-weight: 900px;
+    text-align: center;
+    font-size:20px;
+}
+
+.row div{
+  border: 6px solid orange;
+  height:80px;
+  background: gold;
+}
+
